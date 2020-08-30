@@ -7,7 +7,7 @@ import numpy as np
 def main():
     df = pd.read_excel('HIST_PAINEL_COVIDBR_27ago2020.xlsx')
     print(df.dtypes)
-    moc  = df[['municipio','codmun','estado', 'semanaEpi', 'casosAcumulado', 'casosNovos', 'obitosNovos']].where(df['codmun'] == 314330)
+    moc  = df[['municipio','codmun','estado', 'semanaEpi', 'casosAcumulado', 'casosNovos', 'obitosNovos', 'obitosAcumulado']].where(df['codmun'] == 314330)
     moc  = moc.dropna()
     print(moc.corr())
     print(moc[['casosNovos', 'obitosNovos']].corr())
