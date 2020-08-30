@@ -1,21 +1,15 @@
-# Trabalho de Conclusão de Curso I ( Faculdade de computação de Montes Claros)
+# O uso de algoritmos de Regressão na Análise e predição de dados sobre o Covid-19 no Brasil: um estudo sobre o uso de ferramentas de Data Science e Machine Learning em Python.
 
-### Três possíveis linhas de pesquisa:
+## Objetivo Geral:
 
-#### Privacidade de dados na rede social Tinder:
+> Contruir e refinar... de um dataset a partir de tabelas de dados Xlsx, observando o nível de acertividade na análise estatística e predição de dados via aprendizado de máquina.
 
-> - como os dados são expostos ?
-> - como se dá compartilhamento de dados com outros aplicativos ?
-> - como funciona os algoritmos de classificação dentro da rede social ?
+## Objetivos Específicos:
 
-#### O uso da lei de Benford na análise de perfis do Twitter:
+> Levantar as principais ferramentas necessárias para a análise de dados e predição na linguagem de programação Python
 
-> - o que é a lei de Benford?
-> - como podemos aplicá-la no contexto proposto ?
-> - qual o nível de acertividade de um algoritmo baseado nesse modelo ?
+> Construir um dataset com informações ( o que é relevante ? ) relevantes à partir de dados sobre o Covid-19. "pelo site https://covid.saude.gov.br/"
 
-#### O uso de algoritmos de Regressão na Análise e predição de dados sobre COVID no Brasil.
+> Definir as variáveis disponíveis no dataset e seu relacionamento com outras variáveis como forma de predição.
 
-> - o que é regressão linear e polinomial ?
-> - como esse algoritmo pode ajudar a entender estatísticas sobre Covid ?
-> - qual o nível de acertividade desse algoritmo?
+> Medir o quanto acertivas as predições podem ser a partir da definição de grupos de teste.
